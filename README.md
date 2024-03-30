@@ -1,6 +1,3 @@
-<h1 align="left">Mo David</h1>
-<h3 align="left"><i>self-taught programmer</i></h3><br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoDavid1964)](https://git.io/streak-stats)
 
 
