@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoDavid1964)](https://git.io/streak-stats)
-![(PhO)^2](PhO2.png)
+![(PhO)^2](pho2.png)
 ![Minez](minez.png)
 ![Foliage](Login.png)
 ![Gumption](gumption.png)
