@@ -1,6 +1,9 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MoDavid1964)](https://git.io/streak-stats) -->
+# Existing Projects
 ![(PhO)^2](pho2.png)
 ![Minez](minez.png)
+
+# Personal InDev Projects
 ![Foliage](Login.png)
 ![Gumption](gumption_new.png)
 
