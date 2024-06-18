@@ -1,17 +1,67 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
               * { 
-                font-family: Helvetica Neue; 
+                font-family: Helvetica Neue;
+                color: #212121; 
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
               }
 
               .title {
                 font-size: 10rem;
-                letter-spacing: -0.06rem;
+                line-height: 1;
+                margin-left: -0.5rem;
+                letter-spacing: -0.5rem;
+              }
+
+              .desc {
+                font-size: 1.5rem;
+                display: inline-block;
+                line-height: 1.5;
+              }
+
+              .body {
+                background-color: #FdFBF7;
+                width: 100%;
+                height: 100%;
+                padding: 8rem;
+                padding-top: 6rem;
+                padding-bottom: 25rem;
+              }
+
+              .text {
+                display: inline-block;
+              }
+
+              .color {
+                float: right;
+                display: inline-block;
+                width: 16px;
+                height: 3.7rem;
+                margin-top: 0.5rem;
+                background-color: #3955bc;
               }
             </style>
-            <h1 class="title">mo david</h1>
+            <div class="body">
+              <div class="text">
+                <h1 class="title">mo david</h1>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <p class="desc">
+                  I do stuff like design,<br />
+                  coding, and poetry.
+                </p>
+                <div class="color">
+                  
+                </div>
+              </div>
+            </div>
         </div>
     </foreignObject>
 </svg>
